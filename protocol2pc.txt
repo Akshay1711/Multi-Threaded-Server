@@ -1,0 +1,30 @@
+This is the part where multiple peer servers will be created which contains all
+the functionalities mentioned above. Syncronization in this server is performed
+by using peer creation, communication and master slave architecture to maintain
+all the peers in sync.
+
+The syncronization is performed only for WRITE and REPLACE commands.Peers are the 
+primary requirements to perform syncronization, there should be atleast one peer 
+running to perform syncronization. Once the server and its peers are up and 
+running the master slave architecture comes into picture, which will be implemented 
+as follows:
+1. The client that requests for either a WRITE or REPLACE operation is considered as
+master and all its peers are considered as slave.
+2. When the server handles WRITE or REPLACE request it first checks whether all its
+peers are ready to perform the corresponding operation. For this a PRECOMMIT command
+is sent to the peers, if atleast one of the peers either sends an error response or 
+doesnt send the response to the server then the corresponding WRITE or REPLACE 
+operation will be cancelled in both server and peers and an appropriate error message 
+is sent to client by the server.
+3. If the PRECOMMIT broadcasted from the server gets a SUCCESS response then the 
+nextphase begins which is to perform the corresponding WRITE or REPLACE operation. 
+This is performed using the COMMIT command.
+4. Once the COMMIT is broadcasted to all the peers, the peers will perform the 
+corresponding WRITE or REPLACE operation and once they give a SUCCESS response the 
+server performs the operation to the file and responds to the client accrodingly.
+5. If any of the peers sends either an error message or if there is no response until
+timeout then the server sends abort to all its peers and the operation is aborted by
+the server and a corresponding message is sent to the client accordingly.
+
+By following the above process all the master and slave servers will be in sync and 
+hence attains syncronization.

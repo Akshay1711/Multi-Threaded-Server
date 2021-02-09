@@ -1,0 +1,609 @@
+Wed Apr 15 17:51:02 2020: Replica server started 5 
+Wed Apr 15 17:51:02 2020: fserv.cc: replica server accept: Bad file descriptor
+Wed Apr 15 17:51:02 2020: fserv.cc: the replica server died.
+Wed Apr 15 17:51:02 2020: in thread 1 
+Wed Apr 15 17:51:02 2020: in thread 1 
+Wed Apr 15 17:51:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:51:42 2020: misc.cc: threads status idle : 2 , active : 0
+0
+Wed Apr 15 17:51:53 2020: shserv.cc: new client from 127.0.0.1 assigned socket descriptor 5
+Wed Apr 15 17:52:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:52:22 2020: shserv.cc: command completed with status 0
+Wed Apr 15 17:52:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:52:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:52:50 2020: shserv.cc: command completed with status 255
+Wed Apr 15 17:52:53 2020: shserv.cc: command completed with status 255
+Wed Apr 15 17:52:55 2020: shserv.cc: command completed with status 255
+Wed Apr 15 17:53:02 2020: misc.cc: threads status idle : 2 , active : 0
+Done with connection
+Wed Apr 15 17:53:05 2020: shserv.cc: client on socket descriptor 5 went away, closing
+Wed Apr 15 17:53:22 2020: misc.cc: threads status idle : 2 , active : 0
+0
+Wed Apr 15 17:53:28 2020: shserv.cc: new client from 127.0.0.1 assigned socket descriptor 7
+Wed Apr 15 17:53:31 2020: shserv.cc: command completed with status 0
+Wed Apr 15 17:53:42 2020: misc.cc: threads status idle : 2 , active : 0
+1
+Wed Apr 15 17:54:02 2020: misc.cc: threads status idle : 2 , active : 0
+Done with connection
+Wed Apr 15 17:54:06 2020: shserv.cc: client on socket descriptor 7 went away, closing
+0
+Wed Apr 15 17:54:22 2020: shserv.cc: new client from 127.0.0.1 assigned socket descriptor 5
+Wed Apr 15 17:54:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:54:39 2020: shserv.cc: command completed with status 0
+Wed Apr 15 17:54:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:55:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:55:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:55:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:56:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:56:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:56:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:57:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:57:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:57:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:58:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:58:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:58:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:59:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:59:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 17:59:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:00:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:00:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:00:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:01:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:01:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:01:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:02:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:02:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:02:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:03:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:03:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:03:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:04:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:04:22 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:04:42 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 18:05:02 2020: misc.cc: threads status idle : 2 , active : 0
+Wed Apr 15 22:08:43 2020: Replica server started 5 
+Wed Apr 15 22:08:43 2020: fserv.cc: replica server accept: Bad file descriptor
+Wed Apr 15 22:08:43 2020: fserv.cc: the replica server died.
+Wed Apr 15 22:08:43 2020: in thread 1 
+Wed Apr 15 22:08:43 2020: in thread 1 
+Wed Apr 15 22:09:03 2020: misc.cc: threads status idle : 2 , active : 0
+lo IP main Address 127.0.0.1
+Thu Apr 16 04:07:10 2020: Replica server started 5 
+Thu Apr 16 04:07:10 2020: fserv.cc: replica server accept: Bad file descriptor
+Thu Apr 16 04:07:10 2020: fserv.cc: the replica server died.
+Thu Apr 16 04:07:10 2020: in thread 1 
+Thu Apr 16 04:07:10 2020: in thread 1 
+Thu Apr 16 04:07:30 2020: misc.cc: threads status idle : 2 , active : 0
+Thu Apr 16 04:07:50 2020: misc.cc: threads status idle : 2 , active : 0
+
+ dfgdfg
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+BB client stated with file desp: 3
+Sun Aug  9 21:10:10 2020: in thread 1 
+Sun Aug  9 21:10:39 2020: Found an idle thread
+Sun Aug  9 21:10:39 2020: fserv.cc: new client from 127.0.0.1 assigned socket descriptor 3
+Sun Aug  9 21:10:43 2020: fserv.cc: --> USER hello ; len : 10
+Sun Aug  9 21:10:43 2020: misc.cc: next_arg(USER hello,  ): split at 5
+Sun Aug  9 21:10:43 2020: fserv.cc: <-- 1.0 HELLO hello
+Sun Aug  9 21:11:04 2020: fserv.cc: --> WRITE hello ; len : 11
+Sun Aug  9 21:11:04 2020: misc.cc: next_arg(WRITE hello,  ): split at 6
+Sun Aug  9 21:11:04 2020: fserv.cc: will write hello/hello
+Inserting: 31/hello/hello
+ for file desp:3
+Sun Aug  9 21:11:04 2020: Here is the list of replica servers to initiate 2p-protocal
+ dfgdfg
+BB client stated with file desp: 3
+Mon Aug 10 07:51:47 2020: in thread 1 
+BB client stated with file desp: 3
+Mon Aug 10 07:51:47 2020: in thread 1 
+BB client stated with file desp: 3
+Mon Aug 10 07:51:47 2020: in thread 1 
+BB client stated with file desp: 3
+Mon Aug 10 07:51:47 2020: in thread 1 
+Mon Aug 10 07:56:55 2020: Found an idle thread
+Mon Aug 10 07:56:55 2020: fserv.cc: new client from 127.0.0.1 assigned socket descriptor 6
+Mon Aug 10 07:57:01 2020: fserv.cc: --> READ 10 ; len : 7
+Mon Aug 10 07:57:01 2020: misc.cc: next_arg(READ 10,  ): split at 5
+Mon Aug 10 07:57:01 2020: fserv.cc: (before decoding) will read 10 message from Bulletin Board File
+Mon Aug 10 07:57:01 2020: fserv.cc: (after decoding) will read 10 message from Bulletin Board File 
+Mon Aug 10 07:57:01 2020: fserv.cc: read 100 bytes from descriptor 3
+Mon Aug 10 07:57:01 2020: fserv.cc: <-- 2.1 UNKNOWN 10
+Mon Aug 10 07:57:04 2020: fserv.cc: --> READ 1 ; len : 6
+Mon Aug 10 07:57:04 2020: misc.cc: next_arg(READ 1,  ): split at 5
+Mon Aug 10 07:57:04 2020: fserv.cc: (before decoding) will read 1 message from Bulletin Board File
+Mon Aug 10 07:57:04 2020: fserv.cc: (after decoding) will read 1 message from Bulletin Board File 
+Mon Aug 10 07:57:04 2020: fserv.cc: read 100 bytes from descriptor 3
+Mon Aug 10 07:57:04 2020: fserv.cc: <-- 2.1 UNKNOWN 1
+Mon Aug 10 07:57:10 2020: fserv.cc: --> QUIT ; len : 4
+Mon Aug 10 07:57:10 2020: fserv.cc: QUIT received from client 6 (127.0.0.1), closing
+Mon Aug 10 07:57:10 2020: fserv.cc: <-- OK 0 nice talking to you
+Mon Aug 10 07:57:22 2020: Found an idle thread
+Mon Aug 10 07:57:22 2020: fserv.cc: new client from 127.0.0.1 assigned socket descriptor 7
+Mon Aug 10 07:57:29 2020: fserv.cc: --> QUIT ; len : 4
+Mon Aug 10 07:57:29 2020: fserv.cc: QUIT received from client 7 (127.0.0.1), closing
+Mon Aug 10 07:57:29 2020: fserv.cc: <-- OK 0 nice talking to you
+free(): invalid pointer
+
+ dfgdfg
+BB client stated with file desp: 3
+Tue Aug 11 08:46:40 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 08:46:40 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 08:46:40 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 08:46:40 2020: in thread 1 
+Tue Aug 11 08:47:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:47:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:47:37 2020: Found an idle thread
+Tue Aug 11 08:47:37 2020: fserv.cc: new client from 127.0.0.1 assigned socket descriptor 6
+Tue Aug 11 08:47:40 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:47:54 2020: fserv.cc: --> READ 7 ; len : 6
+Tue Aug 11 08:47:54 2020: misc.cc: next_arg(READ 7,  ): split at 5
+Tue Aug 11 08:47:54 2020: fserv.cc: (before decoding) will read 7 message from Bulletin Board File
+Tue Aug 11 08:47:54 2020: fserv.cc: (after decoding) will read 7 message from Bulletin Board File 
+Tue Aug 11 08:47:54 2020: fserv.cc: read 100 bytes from descriptor 3
+Tue Aug 11 08:47:54 2020: fserv.cc: <-- 2.1 UNKNOWN 7
+Tue Aug 11 08:48:00 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:48:01 2020: fserv.cc: --> READ 6 ; len : 6
+Tue Aug 11 08:48:01 2020: misc.cc: next_arg(READ 6,  ): split at 5
+Tue Aug 11 08:48:01 2020: fserv.cc: (before decoding) will read 6 message from Bulletin Board File
+Tue Aug 11 08:48:01 2020: fserv.cc: (after decoding) will read 6 message from Bulletin Board File 
+Tue Aug 11 08:48:01 2020: fserv.cc: read 100 bytes from descriptor 3
+Tue Aug 11 08:48:01 2020: fserv.cc: <-- 2.1 UNKNOWN 6
+Tue Aug 11 08:48:15 2020: fserv.cc: --> READ 4 ; len : 6
+Tue Aug 11 08:48:15 2020: misc.cc: next_arg(READ 4,  ): split at 5
+Tue Aug 11 08:48:15 2020: fserv.cc: (before decoding) will read 4 message from Bulletin Board File
+Tue Aug 11 08:48:15 2020: fserv.cc: (after decoding) will read 4 message from Bulletin Board File 
+Tue Aug 11 08:48:15 2020: fserv.cc: read 100 bytes from descriptor 3
+Tue Aug 11 08:48:15 2020: fserv.cc: <-- 2.1 UNKNOWN 4
+Tue Aug 11 08:48:20 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:48:22 2020: fserv.cc: --> WRITE sample ; len : 12
+Tue Aug 11 08:48:22 2020: misc.cc: next_arg(WRITE sample,  ): split at 6
+Tue Aug 11 08:48:22 2020: fserv.cc: will write nobody/sample
+Inserting: 8/nobody/sample
+ for file desp:3
+Tue Aug 11 08:48:22 2020: Here is the list of replica servers to initiate 2p-protocalTue Aug 11 08:48:22 2020: 
+1) host:localhost, port:9003  
+
+connectbyport: Connection refused
+Tue Aug 11 08:48:22 2020: fserv.cc: Failed protocol: Invalid argument
+Tue Aug 11 08:48:22 2020: fserv.cc: <-- 3.2 ERROR WRITE
+Tue Aug 11 08:48:40 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:49:00 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:49:20 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:49:40 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:50:00 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:50:20 2020: misc.cc: threads status idle : 3 , active : 1
+Tue Aug 11 08:50:26 2020: fserv.cc: client on socket descriptor 6 (127.0.0.1) went away, closing
+Tue Aug 11 08:50:40 2020: misc.cc: threads status idle : 4 , active : 0
+BB client stated with file desp: 3
+Tue Aug 11 08:50:40 2020: in thread 1 
+Tue Aug 11 08:51:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:51:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:51:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:52:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:52:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:52:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:53:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:53:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:53:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:54:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:54:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:54:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:55:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:55:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:55:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:56:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:56:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:56:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:57:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:57:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:57:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:58:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:58:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:58:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:59:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:59:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 08:59:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:00:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:00:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:00:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:01:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:01:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:01:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:02:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:02:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:02:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:03:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:03:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:03:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:04:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:04:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:04:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:05:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:05:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:05:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:06:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:06:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:06:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:07:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:07:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:07:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:08:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:08:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:08:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:09:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:09:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:09:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:10:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:10:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:10:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:11:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:11:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:11:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:12:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:12:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:12:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:13:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:13:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:13:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:14:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:14:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:14:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:15:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:15:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:15:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:16:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:16:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:16:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:17:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:17:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:17:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:18:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:18:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:18:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:19:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:19:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:19:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:20:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:20:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:20:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:21:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:21:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:21:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:22:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:22:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:22:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:23:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:23:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:23:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:24:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:24:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:24:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:25:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:25:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:25:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:26:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:26:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:26:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:27:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:27:20 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:27:40 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 09:28:00 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 0
+ dfgdfg
+BB client stated with file desp: 3
+Tue Aug 11 12:55:34 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:55:34 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:55:34 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:55:34 2020: in thread 1 
+Tue Aug 11 12:55:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:56:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:56:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:56:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:57:14 2020: misc.cc: threads status idle : 4 , active : 0
+
+ dfgdfg
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+BB client stated with file desp: 3
+Tue Aug 11 12:57:27 2020: in thread 1 
+Tue Aug 11 12:57:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:57:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:57:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:58:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:58:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:58:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:58:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:58:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:58:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:59:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:59:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:59:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:59:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 12:59:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 12:59:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:00:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:00:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:00:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:00:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:00:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:00:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:01:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:01:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:01:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:01:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:01:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:01:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:02:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:02:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:02:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:02:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:02:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:02:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:03:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:03:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:03:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:03:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:03:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:03:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:04:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:04:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:04:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:04:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:04:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:04:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:05:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:05:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:05:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:05:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:05:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:05:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:06:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:06:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:06:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:06:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:06:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:06:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:07:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:07:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:07:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:07:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:07:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:07:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:08:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:08:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:08:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:08:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:08:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:08:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:09:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:09:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:09:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:09:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:09:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:09:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:10:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:10:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:10:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:10:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:10:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:10:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:11:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:11:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:11:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:11:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:11:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:11:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:12:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:12:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:12:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:12:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:12:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:12:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:13:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:13:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:13:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:13:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:13:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:13:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:14:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:14:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:14:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:14:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:14:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:14:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:15:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:15:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:15:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:15:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:15:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:15:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:16:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:16:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:16:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:16:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:16:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:16:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:17:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:17:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:17:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:17:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:17:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:17:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:18:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:18:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:18:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:18:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:18:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:18:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:19:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:19:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:19:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:19:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:19:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:19:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:20:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:20:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:20:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:20:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:20:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:20:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:21:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:21:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:21:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:21:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:21:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:21:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:22:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:22:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:22:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:22:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:22:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:22:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:23:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:23:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:23:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:23:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:23:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:23:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:24:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:24:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:24:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:24:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:24:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:24:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:25:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:25:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:25:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:25:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:25:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:25:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:26:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:26:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:26:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:26:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:26:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:26:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:27:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:27:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:27:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:27:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:27:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:27:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:28:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:28:14 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:28:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:28:34 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:28:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:28:54 2020: misc.cc: threads status idle : 4 , active : 0
+Tue Aug 11 13:29:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:29:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:29:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:30:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:30:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:30:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:31:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:31:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:31:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:32:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:32:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:32:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:33:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:33:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:33:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:34:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:34:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:34:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:35:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:35:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:35:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:36:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:36:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:36:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:37:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:37:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:37:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:38:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:38:27 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:38:47 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:39:07 2020: misc.cc: threads status idle : 20 , active : 0
+Tue Aug 11 13:39:27 2020: misc.cc: threads status idle : 20 , active : 0

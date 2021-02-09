@@ -1,0 +1,5 @@
+./server -d -b 9001 -T 4 -s 9002 localhost:9003 localhost:9004
+
+./server -d -b 9001 -T 4 -s 9002 localhost:9003 
+
+./server -d -b 9004 -T 4 -s 9003 localhost:9002
