@@ -11,8 +11,6 @@ directory.
 
 
 ## 1. User guide:
--------------- 
-
 The following command line is accepted:
 
   `./server [-d] [-D] [-b <bbfile name>] [-p <file server port>] [-T <Max thread pool size>] [-s <replication server port>] <IP address:port> [list Sync servers]`
@@ -36,26 +34,21 @@ present), and all the responses given are \r\n-terminated.
 
 
 ## 2. Supporting files:
---------------------
+- Module tcp-con, which consists of all the generic methods required for TCP communication.
 
-* Module tcp-con, which consists of all the generic methods required for TCP communication.
+- Module tokenize, has the generic functions required to perform string tokenization.
 
-* Module tokenize, has the generic functions required to perform string tokenization.
+- The makefile, whose target 'all' prepares the server,
 
-* The makefile, whose target 'all' prepares the server,
+- server.cc is the file where all the server functionalities are implemented.
 
-* server.cc is the file where all the server functionalities are implemented.
-
-* utils.cc consists of the main function and initilization part of the servers.
+- utils.cc consists of the main function and initilization part of the servers.
 
 
 ## 3. Implementation details
--------------------------
-
 The server implementation has following parts namely Bulletin Board Server, a Replication server, Signal Handling.
 
 ## 3.1. Bulletin Board Server
---------------------------
 This is a simple file server which accepts 5 commands USER, READ, WRITE, REPLACE 
 and QUIT and performs the corresponding actions to the bbserver file(The file 
 name might not be the same as it changes as per the input given while running the 
@@ -73,7 +66,6 @@ by the client.
 #### Note: Bulletin Board server commands are case insensitive and everything other than that are case sensitive.
 
 ## 3.2. Thread management in File server
--------------------------------------
 The maximum number of threads that are created to serve the clients is referred as `t_max`. Rather than creating new threads we are managing the clients by reallocating the same thread which was used by another client. The whole process goes as follows:
 - When the server starts there will be a set of pre-allocated threads to 
 serve the clients(t_max).
@@ -89,7 +81,6 @@ server responds to the client that it will not accept any more clients.
 
 
 ## 3.3. System Signal Handling(SIGQUIT & SIGHUP)
----------------------------------------------
 - When `SIGQUIT` signal is triggered by the system or explictly, the server will 
 first wait for working threads to complete the work and then exit all the 
 threads, close the sockets and then terminates the program. 
@@ -99,7 +90,6 @@ first wait for working threads to complete their work and then exits all the
 threads, closes all the sockets and then restarts the program.
 
 ## 3.4 Syncronization
-------------------
 This is the part where multiple peer servers will be created which contains all the functionalities mentioned above. Syncronization in this server is performed by using peer creation, communication and master slave architecture to maintain all the peers in sync.
 
 The syncronization is performed only for `WRITE` and `REPLACE` commands.Peers are the primary requirements to perform syncronization, there should be atleast one peer 
@@ -116,8 +106,6 @@ hence attains syncronization.
 
 
 ## 4. Tests
---------
-
 - All the best cases in which there is highest possibility of pass are tested 
 accross multiple clients and servers.
 
@@ -130,5 +118,3 @@ accross multiple clients and servers.
 - Two phase protocol has precommit phase and commit phase, where in precommit phase server send `PRECOMMIT` message, as soon as the sync server recieves `PRECOMMIT` if server is ready it replies with `READY` upon reciveing `READY` signal from all the servers, then application is taken to the second phase if now OPERATION is failed.
 
 - Once the server reaches to the phase two, then server sends either `WRITE` or `REPLACE` command to the server. Then the server is handled the respective command and replies with `SUCCESS`. After recieving the `SUCCESS` from the servers then the file is modified in the local server.
-
-
